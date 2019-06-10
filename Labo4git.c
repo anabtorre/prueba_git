@@ -77,6 +77,7 @@ void print_struct(struct datos_persona *puntero)
 
 int main()
 {
+	printf ("Agregue esto para practicar git \n")
 	// struct datos_persona estructura es si creara uno solo
 	int personas=5;
 	struct datos_persona estructura[personas];
